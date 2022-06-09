@@ -1,8 +1,7 @@
 /** @format */
-
 .home {
-  background-color: palevioletred;
-  .title {
-    color: white;
+  display: flex;
+  .homeContainer {
+    flex: 6;
   }
 }
