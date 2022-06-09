@@ -1,11 +1,9 @@
 /** @format */
-
-import Card from "./Home";
-
+import Home from "../pages/home/Home";
 const App = () => {
   return (
     <div>
-      <Card />
+      <Home />
     </div>
   );
 };
