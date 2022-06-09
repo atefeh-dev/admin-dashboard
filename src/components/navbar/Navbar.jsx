@@ -39,6 +39,13 @@ const Navbar = () => {
           <div className="item">
             <ListOutlinedIcon className="icon" />
           </div>
+          <div className="item">
+            <img
+              src="https://images.pexels.com/photos/834872/pexels-photo-834872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              alt=""
+              className="avatar"
+            />
+          </div>
         </div>
       </div>
     </div>
